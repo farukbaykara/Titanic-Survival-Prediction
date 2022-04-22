@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction
+This repository was created for use in the Titanic- Machine Learning from Disaster competition provided by Kaggle. Data taken from Kaggle's site. Data downloading, data analysis and manipulation were performed. After finalizing the data, a logistic regression model was created and estimates were obtained. Model evaluation and analysis were performed according to the estimates obtained.
